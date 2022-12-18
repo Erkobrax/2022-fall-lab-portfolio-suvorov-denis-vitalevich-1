@@ -42,7 +42,7 @@ ul li:hover {
     padding: 10px;
     width: 100%;
 }
-.description {
+#description {
     font-size: 25px;
     line-height: 22px;
     margin: 20px;
@@ -52,11 +52,11 @@ ul li:hover {
     width: 100%;
     background: #F6F6F6;
 }
-.about {
+#about {
     margin: 5%;
     padding: 5%;
 }
-.info {
+#info {
     margin: 5%;
     padding: 5%;
 }
@@ -84,7 +84,7 @@ ul li:hover {
     width: 250px;
 
 }
-.contacts {
+#contacts {
     margin: 4%;
     padding: 3%;
 }
